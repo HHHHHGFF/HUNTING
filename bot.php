@@ -32,8 +32,8 @@ try {
               $bot->sendMessage([
                   'chat_id'=>$chatId,
                   'text'=>"- - HELLO ACTIVATION BY HAA🍯
- ↯Tele↯.                     ↯CH↯
- :-  @E_5_O              :-  @IIQQTQ  .",
+ ↯Tele↯.                     ↯ملحوظة↯
+ :-  @xMGNON              :-  @صلي على النبي  .",
                   'reply_markup'=>json_encode([
                       'inline_keyboard'=>[
                           [['text'=>'- Add Account .','callback_data'=>'login']],
